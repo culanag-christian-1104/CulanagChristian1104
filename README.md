@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Christian Culanag, and I am currently a student at UNR pursuing my CSE degree! I am very interested in Computers in general, and hope to pursue the cybersecurity field in general. I enjoy coding, reading, as well as learning new things. 
+
 <!--
 **CulanagChristian1104/CulanagChristian1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
